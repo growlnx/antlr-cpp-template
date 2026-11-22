@@ -1,0 +1,8 @@
+{
+  "configurations": [{
+    "name": "Linux",
+    "includePath": ["${workspaceFolder}/src", "/usr/include/antlr4-runtime"],
+    "cppStandard": "c++17"
+  }],
+  "version": 4
+}
